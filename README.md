@@ -18,3 +18,5 @@ Also really like classical music, literature, and learning Mandarin.
 #### <img src="assets/yc-logo.svg" alt="YC" width="18" style="vertical-align: middle;"/> ~ Attending YCSUS
 - Paris <- June 29
 - San Francisco <- July 25-26
+
+Let's connect if you're there!
