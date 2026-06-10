@@ -9,7 +9,7 @@ Also really like classical music, literature, and learning Mandarin.
 
 <br clear="right" />
 
-### Currently working on
+### Current focus
 - A paper on adversarial robustness of tabular foundation models.
 - <img src="assets/mippo-logo.svg" alt="Mippo" width="18" style="vertical-align: middle;" /> **[Mippo](https://mippo.ai)** (SNS)
 
