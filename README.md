@@ -19,4 +19,4 @@ Also really like classical music, literature, and learning Mandarin.
 - Paris <- June 29
 - San Francisco <- July 25-26
 
-Let's connect if you're there!
+Happy to connect with people who will also be there.
