@@ -1,13 +1,11 @@
-<img src="assets/the-hunt-of-diana.jpg" alt="The Hunt of Diana (1896) – Arnold Böcklin" width="400" align="right" hspace="5" />
+<img src="assets/the-hunt-of-diana.jpg" alt="The Hunt of Diana (1896) – Arnold Böcklin" width="420" align="right" hspace="5" />
 
 ### About me
 Software engineer and CS student based in the Netherlands, working on backend systems. 
 
 Interested in distributed computing, deep learning (especially LLM inference & compression), and probability theory.
 
-Also really like classical music, literature, and learn Mandarin.
-
-<br clear="right" />
+Also really like classical music, literature, and learning Mandarin.
 
 ### Currently working on
 - A paper on adversarial robustness of tabular foundation models.
@@ -18,6 +16,3 @@ Also really like classical music, literature, and learn Mandarin.
 #### <img src="assets/yc-logo.svg" alt="YC" width="18" style="vertical-align: middle;"/> ~ Attending YCSUS
 - Paris <- June 29
 - San Francisco <- July 25-26
-
----
-
