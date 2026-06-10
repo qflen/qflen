@@ -1,4 +1,4 @@
-![The Hunt of Diana (1896) – Arnold Böcklin](assets/the-hunt-of-diana.jpg)
+<img src="assets/the-hunt-of-diana.jpg" alt="The Hunt of Diana (1896) – Arnold Böcklin" width="400" />
 
 ### About me
 Software engineer and CS student based in the Netherlands, working on backend systems. Interested in distributed computing, deep learning (especially LLM inference & compression), and probability theory.
@@ -15,4 +15,4 @@ Software engineer and CS student based in the Netherlands, working on backend sy
 ~
 ---
 
-Aside from these things, I really like classical music, and literature. I also enjoy learning languages, with a current focus in Mandarin.
+Also really like classical music, literature, and now learning Mandarin.
